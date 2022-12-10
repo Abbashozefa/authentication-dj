@@ -133,4 +133,4 @@ EMAIL_PORT=587
 EMAIL_USE_TLS=True
 
 EMAIL_HOST_USER="abbashozefa@gmail.com"
-EMAIL_HOST_PASSWORD="yellowyellow"
+EMAIL_HOST_PASSWORD=""
